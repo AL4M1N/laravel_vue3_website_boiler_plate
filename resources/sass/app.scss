@@ -1,0 +1,18 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// materialdesignicons
+@import "@mdi/font/css/materialdesignicons.css";
+//font
+// @import '@fontsource/prompt';
+
+// @import './../css/admin-style.css';
+
+// @import './../css/common/button-color.css';
+
+* {
+    font-family: 'Prompt', sans-serif !important;
+}
