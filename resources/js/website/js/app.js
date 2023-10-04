@@ -27,7 +27,7 @@ import Store from './store';
 
 
 // Vue.use(VueReCaptcha, {
-//   siteKey: '6LdTC5wmAAAAAHjesWn5Icx0SquuY5CrryzVNmsF'
+//   siteKey: ''
 // })
 
 
